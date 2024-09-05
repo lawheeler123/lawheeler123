@@ -1,0 +1,32 @@
+body {margin: 0;font-family: Helvetica, Arial, sans-serif;}
+body>header {background-color: rgb(243, 200, 229);colour:white;}
+body > header {
+    background-color: rgb(255, 116, 183);
+    display: flex;
+    height: 12vh;
+    justify-content: space-around;
+}
+body>footer {background-color: rgb(197, 227, 249);colour:black;}
+body>footer>p{padding: 16px; color: white;text-align: center;}
+nav>ul{list-style: none;}
+#nav-ul {
+    display: flex;
+}
+#nav-ul > li {
+    padding: 8px;
+    margin: 16px;
+}
+body > header > nav > ul {
+    list-style: none;
+    text-decoration: none;
+}
+nav>ul>a{color: white;}
+.navbutton {
+    color: white;
+    text-decoration: none;
+    padding: 12px;
+    border: 1px solid white;
+    border-radius: 10%;
+}
+body > main > article {margin: auto;width: 70%;}
+h1{font-size: 28px;} p{font-size: 12px; }
