@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Lauren, a People Ops professional trying to stay at the forefront of AI-native org design. 
+
+Currently working on transitioning to a fully AI-first tool stack, and redesigning our team's workflows for the agent era.
+
+I'm also fascinated about the impact of AI on work more broadly, from evolving organisational structures to the increasing importance of human experiences in the talent war ✨ 
+
+Would love to connect on LinkedIn! - https://www.linkedin.com/in/lauren-wheeler/
+
 <!--
 **lawheeler123/lawheeler123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
